@@ -39,7 +39,7 @@ public class Main {
                 System.out.println("es " + estacion);
                 break;
             default:
-                System.out.println("no es nada");
+                System.out.println("no es ninguna estacion");
         }
     }
 }
