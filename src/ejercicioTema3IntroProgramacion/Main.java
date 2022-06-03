@@ -1,3 +1,5 @@
+package ejercicioTema3IntroProgramacion;
+
 public class Main {
     public static void main(String[] args) {
         suma(1,2,3);
